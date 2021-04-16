@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm a Data Science student at Ca' Foscari University. I'm a linux lover and I really like python scripting. I also have a conservatory diploma in clarinet.
+
 <!--
 **matteospanio/matteospanio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
