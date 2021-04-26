@@ -8,9 +8,9 @@ I'm a linux lover and I really like python scripting. I also have a conservatory
 - 🌱 I’m currently learning Data Analysis and CyberSecurity
 - 💬 Ask me anything about Linux or music (or both)
 
-<p style="text-align: center;">
+<div style="text-align: center;">
 [![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=matteospanio&theme=blue-green&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-</p>
+</div>
 
 <!--
 **matteospanio/matteospanio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
