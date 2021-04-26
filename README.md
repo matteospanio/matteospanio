@@ -10,6 +10,7 @@ I'm a linux lover and I really like python scripting. I also have a conservatory
 
 [![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=matteospanio&theme=blue-green&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=matteospanio)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **matteospanio/matteospanio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
