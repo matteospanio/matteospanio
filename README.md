@@ -8,6 +8,8 @@ I'm a linux lover and I really like python scripting. I also have a conservatory
 - 🌱 I’m currently learning Data Analysis and CyberSecurity
 - 💬 Ask me anything about Linux or music (or both)
 
+<a href="https://github.com/matteospanio/github-readme-stats">
+
 <!--
 **matteospanio/matteospanio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
