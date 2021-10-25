@@ -1,5 +1,16 @@
+<p>
+  <h1 align="center"><b>Hi there, I'm Matteo 👋</h1>
+</p>
 
-<h1 align="center">Hi there, I'm Matteo 👋</h1>
+<p align="center">
+<a href="https://www.linkedin.com/in/matteo-spanio"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+<!--
+<a href="https://hashnode.com/"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white alt="HashNode" /></a>&nbsp;
+<a href="https://codepen.io/"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen" /></a>&nbsp;
+<a href="https://twitter.com/"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp;-->
+<a href="https://matteospanio.github.io/"><img src="https://img.shields.io/badge/-BLOG-%23ff69b4&?style=for-the-badge&?color=ff69b4 alt="Portfolio" /></a>&nbsp;
+</p>
+<br />
 
 
 I'm Matteo, a Data Science student at Ca' Foscari University.
