@@ -33,8 +33,8 @@ Frameworks:
 
 ---
 <p align="center">
-![matteospanio](https://github-readme-stats.vercel.app/api?username=matteospanio&show_icons=true&theme=gotham)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matteospanio&layout=compact&theme=gotham)
+<img src="https://github-readme-stats.vercel.app/api?username=matteospanio&theme=gotham&show_icons=true" width="450"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matteospanio&layout=compact&theme=gotham" width="400" />
 </p>
 
 <!--
