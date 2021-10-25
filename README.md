@@ -1,5 +1,5 @@
 
-<p align="center">### Hi there, I'm Matteo 👋</p>
+<h1 align="center">Hi there, I'm Matteo 👋</h1>
 ---
 
 I'm Matteo, a Data Science student at Ca' Foscari University.
