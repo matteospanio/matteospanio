@@ -37,6 +37,8 @@ Frameworks:
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matteospanio&layout=compact&theme=gotham" width="400" />
 </p>
 
+![Visitors](https://api.visitorbadge.io/api/visitors?path=matteospaniocountColor=%232ccce4&style=flat-square)
+[![GitHub Thaiane](https://img.shields.io/github/followers/matteospanio?label=follow&style=social)](https://github.com/matteospanio)
 
   <!--
 **matteospanio/matteospanio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
