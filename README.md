@@ -13,7 +13,7 @@
 <br />
 
 
-I'm Matteo, a Data Science student at Ca' Foscari University.
+I'm Matteo, Ph.D. at University of Padua.
 I'm a linux lover and I really like python scripting. I also have a conservatory diploma in clarinet 🎶.
 
 I'm comfortable with:
@@ -22,7 +22,7 @@ I'm comfortable with:
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 <img alt="Flask" src="https://img.shields.io/badge/flask%20-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white"/><img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
 
-- 🌱 I’m currently learning Data Analysis and CyberSecurity
+- 🌱 I’m currently learning Computational Creativity
 - 💬 Ask me anything about Linux or music (or both)
 
 ---
