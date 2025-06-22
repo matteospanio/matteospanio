@@ -6,7 +6,7 @@
 <a href="https://www.linkedin.com/in/matteo-spanio"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <a href="https://matteospanio.github.io/"><img src="https://img.shields.io/badge/-BLOG-%23ff69b4&?style=for-the-badge&?color=ff69b4 alt="Portfolio" /></a>&nbsp;
 </p>
-<br />
+<br/>
 
 
 I'm Matteo, Ph.D. at University of Padua.
